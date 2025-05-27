@@ -13,13 +13,22 @@ Este repositorio contiene material recopilado durante el curso de **Aplicación 
 - **`Resumen (3).pdf`**  
   Resumen de las normas emitidas por la CNSF aplicables a productos de seguros.
 
+  **`Cotizador_Gastos_Médicos.xlsx`**
+  Herramienta interactiva en Excel que permite calcular la prima de tarifa y su fraccionamiento a partir de:
+  - Datos personales: edad, sexo, estado, forma de pago, etc.
+  - Datos médicos: preexistencias, asistencias, IETF.
+  - Información financiera: inflación anual (2014–2022), tasa de interés.
+  - Parámetros técnicos: suma asegurada, deducible, coaseguro, costos y utilidad.
+  - Cálculo de primas basado en tablas dinámicas.
+  - Base de datos con columnas de asegurados en vigor, siniestros desglosados (hospitalización, medicamentos, honorarios, etc.) y primas emitidas.
+
+
 ## 🎯 Propósito
 
-Este repositorio sirve como archivo de estudio y referencia para temas relacionados con:
 - Modelación técnica de seguros de **Daños** y **AyP**.
+- Aplicación de herramientas actuariales en Excel para la cotización y diseño de productos.
 - Revisión y aplicación de las **normas actuariales vigentes de la CNSF**.
-- Apoyo a estudiantes de actuaría que cursan materias aplicadas o que estén interesados en el diseño técnico de productos de seguros.
-
+- Práctica de análisis de siniestralidad y cálculo de primas.
 ---
 
 > 📌 Repositorio creado como proyecto académico y de consulta personal.  
