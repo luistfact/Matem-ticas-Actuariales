@@ -1,6 +1,6 @@
 # Matemáticas Actuariales
 
-Este repositorio contiene material recopilado durante el curso de **Aplicación a las Matemáticas Actuariales**. Aunque el temario fue modificado durante el semestre, se incluyen notas técnicas y un resumen de las normas relevantes de la **Comisión Nacional de Seguros y Fianzas (CNSF)**.
+Este repositorio contiene material recopilado durante el curso de **Aplicación a las Matemáticas Actuariales**. se incluyen notas técnicas y un resumen de las normas relevantes de la **Comisión Nacional de Seguros y Fianzas (CNSF)**.
 
 ## 📄 Contenido
 
