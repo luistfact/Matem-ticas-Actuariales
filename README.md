@@ -23,4 +23,4 @@ Este repositorio sirve como archivo de estudio y referencia para temas relaciona
 ---
 
 > 📌 Repositorio creado como proyecto académico y de consulta personal.  
-> ✍️ Autor: [Luis T. Ferrer]
+> ✍️ Autor: [Luis Noe Torres Ferrer]
